@@ -10,9 +10,9 @@ const ProductCatalog = () => {
   const products = [
     {
       image: sweaterPink,
-      name: "Sweater Rajut Pink",
-      price: "Rp 75.000",
-      condition: "95% Like New",
+      name: "Sequin Top H&M",
+      price: "Rp 89.000",
+      condition: "90% Like New",
     },
     {
       image: bagMini,
