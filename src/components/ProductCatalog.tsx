@@ -35,8 +35,8 @@ const ProductCatalog = () => {
     {
       image: blouseFloral,
       name: "jeans blue",
-      price: "Rp 70.000",
-      condition: "80% Like New",
+      price: "Rp 100.000",
+      condition: "95% Like New",
     },
     {
       image: toteBag,
